@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">E_commerce_vegetables</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm_paswrd">Confirm passward</string>
+    <string name="newusersignup">NewUser | Sign Up!</string>
+    <string name="forgotpassward">Forgot Passward?</string>
+    <string name="emailidsignin">Email Id</string>
+    <string name="signinpass">Passward</string>
+    <string name="signin">Sign in!</string>
+    <string name="OR">or</string>
+    <string name="or">OR</string>
+    <string name="passward">Passward</string>
+    <string name="usernamesignup">Username</string>
+    <string name="full_namesignup">Full Name</string>
+    <string name="email_id">Email id</string>
+    <string name="sign_up">Sign_up!</string>
+    <string name="already_have_an_account_sign_in">Already have an account | Sign In!</string>
+    <string name="todo">TODO</string>
+    <string name="passward_minimum_8_characters">passward(Minimum 8 characters)</string>
+
+</resources>

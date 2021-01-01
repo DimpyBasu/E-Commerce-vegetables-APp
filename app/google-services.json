@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575012379463",
+    "project_id": "my-meal-e6bde",
+    "storage_bucket": "my-meal-e6bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575012379463:android:f9d15e547acaf37b7b0a62",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_vegetables"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575012379463-1c3obivvhd63do0vlahebmmjto8e9i24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nid98d4kjGGClMra4rwVCCdASbZ45Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575012379463-1c3obivvhd63do0vlahebmmjto8e9i24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
